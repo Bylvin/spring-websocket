@@ -13,18 +13,15 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-websocket</name>
 	<description>Spring API with websocket protocol</description>
-	<url/>
-	<licenses>
-		<license/>
-	</licenses>
 	<developers>
-		<developer/>
+		<developer>
+			<name>Carolus Raditya - Bylvin</name>
+		</developer>
 	</developers>
 	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
+		<connection>github</connection>
+		<tag>v0.0.1</tag>
+		<url>https://github.com/Bylvin/spring-websocket.git</url>
 	</scm>
 	<properties>
 		<java.version>21</java.version>
